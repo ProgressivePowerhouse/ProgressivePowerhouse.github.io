@@ -1,0 +1,67 @@
+<!font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+>
+.header {
+  padding: 60px;
+  background: #1abc9c;
+  color: black;
+}
+body {
+	background-color: black;
+}
+a:link {
+  text-decoration: none;
+  color: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.Links {
+	
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+.Links h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-align:center;
+}
+.Links tr {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 200%;
+	text-decoration: none;
+}
+.Links a:hover {
+	text-shadow: 2px 2px #FFFFFF;
+}
+
+
