@@ -42,7 +42,7 @@ iframe {
 
 
 .Links {
-	
+
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -58,10 +58,9 @@ iframe {
 	color: white;
 	text-align: center;
 	font-size: 200%;
-	text-decoration: none;
+	text-decoration: none; 
 }
+
 .Links a:hover {
 	text-shadow: 2px 2px #FFFFFF;
 }
-
-
